@@ -1,0 +1,88 @@
+body{
+	font-size: 16px;
+	color:white;
+	background-color: #61122f;
+	font-family:'play' ,sans-serif;
+	}
+/* ------------------------------header styles----------------------------------- */
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border:2px solid rgb(252, 247, 249) ;
+}
+.navbar-header{
+	padding:0px 0px 5px;
+	
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1{
+	color:#557c3e;
+	font-size:1.5em;
+	font-weight:bold;
+	text-shadow:1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	line-height: .75;
+	float:left;
+
+}
+.navbar-toggle{
+	background-color:#61122f;
+}
+.navbar-toggle:hover{
+	background-color:#f6b319;
+}
+#nav-list li > a{
+	text-align:center;
+	line-height:1em;
+	color:white;	
+}
+#nav-list hr{
+	width:100%;
+	color:black;
+}
+#nav-list li:nth-child(4){
+	
+	margin-bottom:5px;
+	border:0;
+	
+}
+#collapsable-nav.navbar-collapse.navbar-in{
+	border: 2px solid rgb(252, 247, 249);
+}
+
+/* ------------------------------End header styles----------------------------------- */
+
+/* ------------------------------homepage styles----------------------------------- */
+.container > h2 {
+	
+	font-size:1.25em;
+	margin-bottom:15px;
+	
+}
+.container .main-content section{
+	background-color: #716F78;
+	padding:10px;
+	margin:5px;
+	
+}
+last-element{
+	float:left;
+	clear:both;
+	margin: 0 17px 0;
+}
+
+h3{
+	position:relative;`
+	position:relative;`
+	font-size:2em;
+	
+}
+
+
+/* ------------------------------End of homepagestyles----------------------------------- */
